@@ -1,0 +1,9 @@
+{
+  "name": "@flyhjaelp/prettier-config",
+  "version": "1.0.0",
+  "description": "Custom Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:flyhjaelp/prettier-config.git",
+  "author": "Flyhjaelp ApS",
+  "license": "MIT"
+}
